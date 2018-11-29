@@ -4,7 +4,7 @@
   "container": {
     "type": "DOCKER",
     "docker": {
-      "image": "rogergonzalez/cd-demo-app:latest"
+      "image": "rogergonzalez/cicd-demo:latest"
     },
     "portMappings": [
       {
